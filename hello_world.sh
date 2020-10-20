@@ -1,2 +1,2 @@
 echo "hello world"
-a=10
+a=20
